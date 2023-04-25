@@ -13,4 +13,6 @@
 \n\nI\'ll be happy to teach you how to make your own aquarium.
 \nYou should ask someone else about fishing, though.\n\n
     </string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="done_btn">DONE</string>
 </resources>
